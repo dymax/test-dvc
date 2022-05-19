@@ -1,5 +1,5 @@
 outs:
-- md5: 23b4d24e45038ef8d895aa27272788d2.dir
-  size: 1200015
-  nfiles: 2
+- md5: 0235162d648fa50cbc929a35a4d8e484.dir
+  size: 2400015
+  nfiles: 3
   path: input
