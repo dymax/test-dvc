@@ -1,0 +1,4 @@
+[core]
+    remote = my-remote
+['remote "my-remote"']
+    url = s3://dvc-remote-1/dateset/
